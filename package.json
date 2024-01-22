@@ -1,0 +1,20 @@
+{
+  "name": "gol",
+  "version": "1.0.0",
+  "description": "This is the famous \"Game of life\" but only in a terminal.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Magnoir/GOL-LEGRAND-3.git"
+  },
+  "author": "Magnoir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Magnoir/GOL-LEGRAND-3/issues"
+  },
+  "homepage": "https://github.com/Magnoir/GOL-LEGRAND-3#readme"
+}
